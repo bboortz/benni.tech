@@ -48,13 +48,9 @@ relativeUrls = true
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "home"
-        name = "Home"
+        name = " Home"
         url = "/"
       [[languages.en.menu.main]]
-        identifier = "about_fleek"
-        name = "Learn About Fleek"
-        url = "https://fleek.co"
-      [[languages.en.menu.main]]
-        identifier = "about_hugo"
-        name = "Learn About Hugo"
-        url = "https://gohugo.io"
+        identifier = "labout"
+        name = "About"
+        url = "/About"
