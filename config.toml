@@ -6,7 +6,7 @@ relativeUrls = true
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "articles"
 
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "blue"
