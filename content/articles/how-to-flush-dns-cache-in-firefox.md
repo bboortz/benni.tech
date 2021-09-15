@@ -28,5 +28,13 @@ So that curl and other tools were showing the right responses.
 Firefox was still showing the old page. So that I have cleared the DNS cache in firefox using this [entry](https://stackoverflow.com/questions/59932525/how-can-i-force-firefox-to-reset-its-dns-cache-on-demand) on Stackoverflow. I have just opened `about:networking#dns` and have pressed the button `Clear DNS Cache`.
 This solved the problem.
 
+This blog is now available via:
+* https://ipfs.io/ipns/benni.tech/
+* https://ipfs.io/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/
+* https://bennitech.on.fleek.co/
+* https://ipfs.fleek.co/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/
+* https://benni.tech/
+
+
 
 
