@@ -16,10 +16,11 @@ The current one is `Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop` which is alr
 How do I have observed this? 
 
 1. First the hash that [Fleek](https://fleek.co) is pointing to has been changed on the UI.
-2. Secondary [https://ipfs.io/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/](https://ipfs.io/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/) was still showing the old data.
-3. Third `dig +short TXT _dnslink.benni.tech | sed -E 's/"dnslink=(.*)"/\1/g'` is pointing now to `/ipfs/Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop`
+2. Secondary `dig +short TXT _dnslink.benni.tech | sed -E 's/"dnslink=(.*)"/\1/g'` is pointing now to `/ipfs/Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop`
+2. Third [https://ipfs.io/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/](https://ipfs.io/ipfs/QmdxaxczCgnNgDA4wy6gjAJoKqXFKJiYhquKYqUHMk4ysu/) was still showing the old data.
 Secondary
-4. Fourth `ipfs dns benni.tech` is pointing to `/ipfs/Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop`
+4. Fourth `ipfs dns benni.tech` is pointing to `/ipfs/Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop` too
+5. Fifth `ipfs cat /ipfs/Qmd1vjCbc5yzndS6TZg9KS5hhPVNyJL2RX8DpxWGD2Jeop/index.html` is showing up-to-date data.
 
 So that 
 1. for all new data will be a new IPFS hash created
