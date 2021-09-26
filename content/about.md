@@ -19,5 +19,5 @@ My blog.
 Benjamin Boortz
 Luchtenmakerweg 25
 38126 Braunschweig
-E-Mail: bennis.blog@secure.mailbox.org
+E-Mail: bennis point blog at mailbox dot org
 ```
