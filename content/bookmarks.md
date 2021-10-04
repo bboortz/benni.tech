@@ -17,6 +17,10 @@ showFullContent = true
 
 * [Timer](https://d1f28333hybq4l.cloudfront.net/timer.html)
 
+*AWS*
+
+* [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure)
+
 *CTF*
 
 * [CTFlearn](https://ctflearn.com)
