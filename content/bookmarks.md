@@ -16,6 +16,7 @@ showFullContent = true
 *Useful Tools*
 
 * [Timer](https://d1f28333hybq4l.cloudfront.net/timer.html)
+* [DNS Checker](https://dnschecker.org)
 
 *AWS*
 
