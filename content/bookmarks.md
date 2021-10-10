@@ -36,6 +36,7 @@ showFullContent = true
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
 * [Command line apps in Rust](https://rust-cli.github.io/book)
 * [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
+* [Rust Anthology](https://brson.github.io/rust-anthology)
 
 *Ideas*
 
