@@ -25,6 +25,7 @@ showFullContent = true
 *Rust*
 
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
+* [The Rust Referenc](https://doc.rust-lang.org/reference/)
 * [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 * [How to write x86 bare-metal hello world in Rust](https://yushiomote.org/posts/baremetal)
 * [24 Days of Rust](https://zsiciarz.github.io/24daysofrust/)
