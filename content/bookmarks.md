@@ -32,6 +32,7 @@ showFullContent = true
 * [How do I print the type of a variable in Rust?](https://stackoverflow.com/questions/21747136/how-do-i-print-the-type-of-a-variable-in-rust/43508373#43508373)
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)
 * [Explaining Rust’s Modules](https://betterprogramming.pub/explaining-rusts-modules-420d38eed6c5)
+* [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
 
 *Ideas*
 
