@@ -27,6 +27,7 @@ showFullContent = true
 * [How to write x86 bare-metal hello world in Rust](https://yushiomote.org/posts/baremetal)
 * [24 Days of Rust](https://zsiciarz.github.io/24daysofrust/)
 * [railcar](https://github.com/oracle/railcar/tree/v1.0.0)
+* [How do I print the type of a variable in Rust?](https://stackoverflow.com/questions/21747136/how-do-i-print-the-type-of-a-variable-in-rust/43508373#43508373)
 
 *Ideas*
 
