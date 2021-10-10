@@ -33,6 +33,8 @@ showFullContent = true
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/)
 * [Explaining Rust’s Modules](https://betterprogramming.pub/explaining-rusts-modules-420d38eed6c5)
 * [Clear explanation of Rust’s module system](http://www.sheshbabu.com/posts/rust-module-system/)
+* [Command line apps in Rust](https://rust-cli.github.io/book)
+* [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
 
 *Ideas*
 
