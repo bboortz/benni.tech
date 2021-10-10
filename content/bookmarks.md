@@ -18,6 +18,20 @@ showFullContent = true
 * [Timer](https://d1f28333hybq4l.cloudfront.net/timer.html)
 * [DNS Checker](https://dnschecker.org)
 
+*Linux*
+
+* [FloppyLinux](https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/)
+
+*Rust*
+
+* [How to write x86 bare-metal hello world in Rust](https://yushiomote.org/posts/baremetal)
+* [24 Days of Rust](https://zsiciarz.github.io/24daysofrust/)
+* [railcar](https://github.com/oracle/railcar/tree/v1.0.0)
+
+*Ideas*
+
+* [Mega Project List](https://github.com/karan/Projects)
+
 *AWS*
 
 * [AWS Global Infrastructure](https://aws.amazon.com/about-aws/global-infrastructure)
