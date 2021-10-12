@@ -37,6 +37,7 @@ showFullContent = true
 * [Command line apps in Rust](https://rust-cli.github.io/book)
 * [Cookin' with Rust](https://rust-lang-nursery.github.io/rust-cookbook/)
 * [Rust Anthology](https://brson.github.io/rust-anthology)
+* [Defining Rust Error Types](https://www.philipdaniels.com/blog/2019/defining-rust-error-types/)
 
 *Ideas*
 
