@@ -10,5 +10,5 @@ description = ""
 showFullContent = true
 +++
 
-Found on [StackOverflow]{https://stackoverflow.com/questions/70487458/simple-logger-erroring-on-init}.
+Found on [StackOverflow](https://stackoverflow.com/questions/70487458/simple-logger-erroring-on-init).
 I commented on it.

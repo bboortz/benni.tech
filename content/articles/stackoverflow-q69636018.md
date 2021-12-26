@@ -10,5 +10,5 @@ description = ""
 showFullContent = true
 +++
 
-Found on [StackOverflow]{https://stackoverflow.com/questions/69636018/how-to-import-a-function-from-another-folder-in-the-folder-above}.
-I have added an answer to it [Link]{https://stackoverflow.com/questions/69636018/how-to-import-a-function-from-another-folder-in-the-folder-above/69636453#69636453}.
+Found on [StackOverflow](https://stackoverflow.com/questions/69636018/how-to-import-a-function-from-another-folder-in-the-folder-above).
+I have added an answer to it [Link](https://stackoverflow.com/questions/69636018/how-to-import-a-function-from-another-folder-in-the-folder-above/69636453#69636453).
